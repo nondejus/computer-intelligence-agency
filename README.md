@@ -1,1 +1,13 @@
-# computer-intelligence-agency
+--------------------------------
+| computer-intelligence-agency |
+--------------------------------
+
+
+# apple
+https://github.com/apple
+
+# microsoft
+https://github.com/microsoft/
+
+# linux
+https://github.com/github/linux
